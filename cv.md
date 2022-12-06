@@ -18,3 +18,13 @@ I'm Anastasia and I'm 21 years old. I have a lot of hobbies, for example, board 
 * Git
 * JavaScript (in process)
 * Microsoft Office 
+
+## Code example:
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(5, 5);
+alert( result );
+```
