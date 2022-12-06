@@ -28,3 +28,9 @@ function sum(a, b) {
 let result = sum(5, 5);
 alert( result );
 ```
+
+## Courses: 
+* Web Layout Designer: the beginning on the [WayUP](https://wayup.in/) 
+* Free online intensive "Start in web development" on the [itlogia](https://itlogia.ru/)
+* JavaScript Manual on [learnjavascript.ru](https://learnjavascript.ru) (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress) 
