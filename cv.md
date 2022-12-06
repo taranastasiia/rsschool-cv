@@ -10,3 +10,11 @@
 
 ## About me:
 I'm Anastasia and I'm 21 years old. I have a lot of hobbies, for example, board games, books and learn English. This year I have graduated from the university with a degree in logistics. Now I'm looking for myself and will try to explore new directions. That's why I started learning programming languages. I'm purposeful, responsible and a quick learner. 
+
+## Skills:
+* Html5
+* CSS3 
+* Figma
+* Git
+* JavaScript (in process)
+* Microsoft Office 
