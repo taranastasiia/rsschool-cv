@@ -34,3 +34,7 @@ alert( result );
 * Free online intensive "Start in web development" on the [itlogia](https://itlogia.ru/)
 * JavaScript Manual on [learnjavascript.ru](https://learnjavascript.ru) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress) 
+
+## Languages:
+* **English** - Pre-Intermediate/Intermediate 
+* **Russian** - Native 
