@@ -1,0 +1,68 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+    font-family: 'Cabin', sans-serif;
+    color: #685e5e;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1024px;
+    background-color: #ffffff; 
+}
+
+.header {
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.inform {
+    padding: 20px 0;
+}
+.my-photo {
+    border-radius: 50%;
+}
+
+.title {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 3.5px;
+}
+
+.subtitle {
+    letter-spacing: 2px;
+}
+
+.main {}
+
+.columns {
+    display: flex;
+}
+
+.left__column {
+    width: 35%;
+    background-color: #f7f4d0;
+}
+
+.right__column {
+    width: 65%;
+    padding: 40px;
+}
+
+.title__left {
+    width: 160px;
+    margin: 60px auto 20px; 
+    padding: 5px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background-color: #685e5e;
+}
