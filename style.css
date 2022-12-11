@@ -68,23 +68,28 @@ body {
     color: #ffffff;
     background-color: #685e5e;
 }
+
 .list {
     list-style: none;
     margin-left: 50px;
     font-size: 20px;
 }
-.contact__icon, .skill__icon {
+
+.contact__icon,
+.skill__icon {
     max-width: 35px;
     margin-right: 15px;
 }
+
 .list__item {
     padding-bottom: 2%;
     display: flex;
     align-items: center;
 }
+
 .text__list {
     text-decoration: none;
-    color: #685e5e;  
+    color: #685e5e;
 }
 
 .title__right {
@@ -94,6 +99,57 @@ body {
     border-bottom: 3.5px solid #f7f4d0;
 }
 
+.aboutme {
+    padding-bottom: 15px;
+}
+
 .paragraph__right {
-   padding: 15px 0;
-   text-align: justify;}
+    padding: 15px 0;
+    text-align: justify;
+}
+
+.list__courses {
+    padding: 10px 0;
+}
+
+.course_link {
+    text-decoration: none;
+    color: #685e5e;
+}
+.course_link:hover {
+    font-weight: 700;
+    color: black;
+}
+.codereview {
+    background-color: rgb(221, 221, 221);
+    margin-top: 20px;
+    padding-top: 10px;
+}
+
+.languages .title__right{
+    margin: 20px 0;
+}
+
+.footer__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 20px;
+    background-color: #685e5e;
+    color: #ffffff;
+}
+.my-github {
+    display: flex;
+    align-items: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer .github-icon {
+    margin-right: 10px;
+  }
+  
